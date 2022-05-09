@@ -128,4 +128,10 @@ public class Constants
      * dev分支
      */
     public static final String dev = "/profile";
+	
+	
+		/**
+     * dev分支2
+     */
+    public static final String dev2 = "/profile";
 }

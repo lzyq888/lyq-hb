@@ -148,5 +148,10 @@ public class Constants
      * dev分支2
      */
     public static final String dev2 = "/profile";
+	
+		    /**
+     * main 分支更新文件33
+     */
+    public static final test2 = "/profile";
 
 }

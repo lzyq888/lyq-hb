@@ -124,10 +124,16 @@ public class Constants
      */
     public static final String RESOURCE_PREFIX = "/profile";
 	
-	
+
 	
 	    /**
      * main 分支更新文件1111
      */
     public static final test = "/profile";
+
+	/**
+     * dev分支
+     */
+    public static final String dev = "/profile";
+
 }

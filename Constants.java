@@ -123,4 +123,11 @@ public class Constants
      * 资源映射路径 前缀
      */
     public static final String RESOURCE_PREFIX = "/profile";
+	
+	
+	
+	    /**
+     * main 分支更新文件
+     */
+    public static final test = "/profile";
 }

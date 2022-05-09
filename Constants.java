@@ -134,4 +134,9 @@ public class Constants
      * dev分支2
      */
     public static final String dev2 = "/profile";
+	
+			/**
+     * dev分支3
+     */
+    public static final String dev3 = "/profile";
 }

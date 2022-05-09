@@ -168,5 +168,7 @@ public class Constants
 		github网址更新33
 		
 			gitdeskshop本地hub网址更新33
+			
+				gitdeskshop本地hub网址更新44
 
 }
